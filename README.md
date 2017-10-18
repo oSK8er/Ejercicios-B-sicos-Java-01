@@ -1,2 +1,2 @@
-# Ejercicios-B-sicos-Java-01
+# Ejercicios-Basicos-Java-01
 Ejercicios propuestos en Desarrollo de Aplicaciones Multiplataforma
